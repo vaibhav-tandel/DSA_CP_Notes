@@ -20,3 +20,23 @@ Below are my Stats of the Leetcode Problem Solved.
 - Recursion & Backtracking
 - Sorting & Searching
 - Bit Manipulation
+
+## <img src="https://github.com/vaibhav-tandel/DSA_CP_Notes/blob/main/Image/HackerRank_Icon-1000px.png" width="38" style="vertical-align:middle"> HACKERRANK STATS
+
+### ⭐ Problem Solving
+- 🥉 1 Star
+
+### 💻 C++
+- 🥈 4 Stars
+
+### ☕ Java
+- 🥉 2 Stars
+
+### 🐍 Python
+- 🥈 3 Stars
+
+### ⚙️ C Language
+- 🥉 2 Stars
+
+
+
